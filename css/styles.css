@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    font-size: xx-large;
+    background: gray;
+    outline: black;
+}
+button.page {
+    font-size: .95em;
+    background-color: rgb(201, 201, 201);
+    border-radius: 0;
+}
+button.page:hover {
+    background-color: rgb(185, 185, 185);
+}
+button.page:active{
+    background-color: rgb(145, 145, 145);
+}
